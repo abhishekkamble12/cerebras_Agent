@@ -125,3 +125,6 @@ Notion Task: "Add a note to Notion titled 'Thesis Ideas' with the content 'Explo
 Planning: "Help me create a study schedule for my final exams in Calculus, History, and Chemistry for the next 5 days."
 
 Complex Query: "Search the web for the top 3 machine learning libraries, then create a new note in Notion with a summary of each."
+<img width="978" height="842" alt="image" src="https://github.com/user-attachments/assets/970b46ba-d4b5-4a92-908a-21232315f46b" />
+<img width="978" height="842" alt="image" src="https://github.com/user-attachments/assets/3186e5c3-693e-457b-9d6f-903217ceafa8" />
+
